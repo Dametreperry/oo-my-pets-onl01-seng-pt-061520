@@ -7,5 +7,9 @@ class Dog
     @owner = owner
   end
   
-  
+  def new_owner
+
+
+
 end
+
