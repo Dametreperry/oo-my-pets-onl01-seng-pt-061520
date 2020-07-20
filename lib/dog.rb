@@ -1,3 +1,5 @@
 class Dog
-  # code goes here
-end
+  
+  attr_accessor :name, :owner, :breed 
+  
+  end
